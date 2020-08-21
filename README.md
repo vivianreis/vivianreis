@@ -1,10 +1,6 @@
-### Olá meu nome é Vivian, seja bem vindo(a) ao meu GitHub 👋
 
-<table>
-  <tr>
-    <td><img src="https://i.imgur.com/3j7bpY8.png"></td>   
-  </tr>  
-</table>  
+ <img src="https://i.imgur.com/3j7bpY8.png">  
+    
 
 Siga-me no Linkedin: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianbarbosareis)](https://www.linkedin.com/in/vivianbarbosareis)
