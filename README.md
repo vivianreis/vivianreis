@@ -10,7 +10,9 @@ Siga-me no Linkedin: <br>
 
 :round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
 :book: No momento focando os estudos na Linguagem Java e Spring Framework. <br>
-:information_desk_person: Participando da comunidade DevsJavaGirl. <br>
+:warning: Atenção este espaço está passando por constante reforma. <br>
+<!-- :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode <br> -->
+
 </p>
 <!--
 **vivianreis/vivianreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
