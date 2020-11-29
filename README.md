@@ -11,7 +11,6 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 <p align="left">
 
 :round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
-<!--🔭 Atualmente trabalhando na Invillia <br> -->
 :book: No momento focando os estudos na Linguagem Java e Spring Framework. <br>
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
 🤔 Perturbando galera de Front com dúvidas de React. <br>
