@@ -11,7 +11,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 <p align="left">
 
 :round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
-🔭 Atualmente trabalhando na Invillia <br>
+<!--🔭 Atualmente trabalhando na Invillia <br> -->
 :book: No momento focando os estudos na Linguagem Java e Spring Framework. <br>
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
 🤔 Perturbando galera de Front com dúvidas de React. <br>
@@ -22,7 +22,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 Siga-me no Linkedin: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianbarbosareis)](https://www.linkedin.com/in/vivianbarbosareis)
 
-- Obrigado por me visitar!
+Obrigado por me visitar!
 <!--
 **vivianreis/vivianreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
