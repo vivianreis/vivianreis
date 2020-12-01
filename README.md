@@ -12,7 +12,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 
 :round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
 :book: No momento focando os estudos na Linguagem Java (lógica e orientação a objetos) e Spring Framework (spring boot). <br>
-:cloud: Lendo um pouco sobre Cloud.<br>
+:cloud: Estudando em paralelo Cloud. <br>
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
 :warning: Atenção este espaço (Github) está passando por constante reforma. <br>
 <!--🤔 Perturbando galera de Front com dúvidas de React. <br> -->
