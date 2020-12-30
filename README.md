@@ -14,8 +14,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 :book: No momento focando os estudos na Linguagem Java (lógica e orientação a objetos) e Spring Framework. <br>
 :cloud: Estudando em paralelo fundamentos de cloud. <br>
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
-:warning: Atenção este espaço (Github) está passando por constante reforma. <br>
-<!--🤔 Perturbando galera de Front com dúvidas de React. <br> -->
+:warning: Atenção este espaço (Github) está passando por constante reforma.<br>
 
 </p>
 
