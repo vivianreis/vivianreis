@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="350" src="https://i.imgur.com/rRds9mZ.png">
  
-Sou tecnóloga em banco de dados e possuo experiencia na área de processos/negócios e um pouco na área de desenvolvimento.
+Sou tecnóloga em banco de dados e possuo experiência na área de processos/negócios e um pouco na área de desenvolvimento.
 
 Aqui neste Github você encontrará alguns exercícios, atividades de alguns cursos e pequenos projetos para treinar programação.
 
