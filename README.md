@@ -4,17 +4,15 @@
  
 Sou tecnóloga em banco de dados e possuo experiencia na área de processos/negócios e um pouco na área de desenvolvimento.
 
-Atualmente* estou focando meus estudos na Linguagem Java.
-
 Aqui neste Github você encontrará alguns exercícios, atividades de alguns cursos e pequenos projetos para treinar programação.
 
 <p align="left">
 
 :round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
-:book: No momento focando os estudos na Linguagem Java (lógica e orientação a objetos) e Spring Framework. <br>
+:book: Estudando Java (lógica e orientação a objetos) e Spring Framework. <br>
 :cloud: Estudando em paralelo fundamentos de cloud. <br>
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
-:warning: Atenção este espaço (Github) está passando por constante reforma.<br>
+:warning: Atenção este espaço (Github) passará por uma reforma. <br>
 
 </p>
 
