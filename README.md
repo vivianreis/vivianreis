@@ -1,6 +1,6 @@
 # Olá meu nome é Vivian, seja bem vindo(a) ao meu Github
 
-<img align="right" width="400" height="450" src="https://i.imgur.com/rRds9mZ.png">
+<img align="right" width="300" height="350" src="https://i.imgur.com/rRds9mZ.png">
  
 Sou tecnóloga em banco de dados e possuo experiência na área de processos/negócios e um pouco na área de desenvolvimento.
 
