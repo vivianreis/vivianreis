@@ -8,10 +8,9 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 
 <p align="left">
 
-:round_pushpin: Atualmente em Osasco - SP 🇧🇷 <br>
+:earth_americas: Atualmente em Osasco - São Paulo - Brasil <br>
 :book: Estudando Java (lógica e orientação a objetos) e Spring Framework. <br>
 :cloud: Estudando em paralelo fundamentos de cloud. <br>
-:information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
 :warning: Atenção este espaço (Github) passará por uma reforma. <br>
 
 </p>
@@ -22,7 +21,7 @@ Siga-me no Linkedin: <br>
 Obrigado por me visitar!
 <!--
 **vivianreis/vivianreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+:information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
