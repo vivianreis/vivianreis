@@ -18,7 +18,7 @@ Certificados: <br>
 <img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png"><br>
 <br>
 <br>
-<a href="https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26?target=_blank"> <br> <sub>ITIL® Foundation</sub></a>
+<a href="https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26"> <br> <sub>ITIL® Foundation</sub></a>
 </p>
 
 
