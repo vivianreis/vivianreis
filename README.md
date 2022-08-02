@@ -14,7 +14,12 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 </p>
 
 Certificados: <br>
-[<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png"><br><br><br><sub><br>ITIL Foundation</sub>](https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26) <br>
+<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png"><br>
+<br>
+
+<a href="https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26" target="_blank"> <sub>ITIL® Foundation</sub></a>
+<br>
+
 
 Siga-me nas redes sociais: <br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianbarbosareis)](https://www.linkedin.com/in/vivianbarbosareis)
