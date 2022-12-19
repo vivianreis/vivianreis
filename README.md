@@ -14,15 +14,16 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 </p>
 
 Certificados: <br>
-<p align="left">
-<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png"> <br>
- 
-<a href="https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26" target="_blank"> <sub>ITIL® Foundation</sub></a> <br>
- 
-</p>
- 
-<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> <a href="https://www.credly.com/badges/e279cfa7-bc1f-478b-898c-692d2a51a6c7/public_url" target="_blank"> <br> <sub>AZ-900</sub></a><br>
-<br>
+<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png"> 
+&emsp;
+&emsp;
+<img align="left" width="70" height="70" src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"> &emsp; <br>
+
+&emsp;
+<a href="https://candidate.peoplecert.org/ReportsLink.aspx?argType=1&id=F881D9EBC07184A5BA305EF5B2AA0946266535E6FC1B8BAE344573DA576C6CE7C060DA2CAC53FA26" target="_blank"> <br><br> <sub>ITIL® Foundation</sub></a>
+&emsp;
+&emsp;
+<a href="https://www.credly.com/badges/e279cfa7-bc1f-478b-898c-692d2a51a6c7/public_url" target="_blank"> <sub>AZ-900</sub></a> <br>
 <br>
 
 
