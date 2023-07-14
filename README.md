@@ -29,12 +29,17 @@ Certificados: <br>
 
 
 Siga-me nas redes sociais: <br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianbarbosareis)](https://www.linkedin.com/in/vivianbarbosareis)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivianbarbosareis)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/vivianbr)
 
 Obrigado por me visitar!
 <!--
 **vivianreis/vivianreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 :information_desk_person: Participando das comunidades DevsJavaGirl e PerifaCode.<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianbarbosareis)](https://www.linkedin.com/in/vivianbarbosareis)
+<br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -45,4 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
