@@ -7,9 +7,10 @@ Sou tecnóloga em banco de dados e possuo experiência na área de processos/neg
 Aqui neste Github você encontrará alguns exercícios, atividades de alguns cursos e pequenos projetos para treinar programação.
 
 <p align="left">
-:earth_americas: Atualmente em Osasco - São Paulo - Brasil <br>
+:earth_americas: Atualmente em Friedrichshafen - Alemanha mas sou de Osasco - São Paulo - Brasil <br>
 :book: Estudando Java (lógica e orientação a objetos) e Spring Framework. <br>
-:cloud: Estudando em paralelo fundamentos de cloud. <br>
+:cloud: Fundamentos de cloud. <br>
+⚡ Me aventurando também na área de microeletrônica. <br>
 :warning: Atenção este espaço (Github) passará por uma reforma. <br>
 </p>
 
