@@ -8,7 +8,7 @@ Aqui neste Github você encontrará alguns exercícios, atividades de alguns cur
 
 <p align="left">
 :earth_americas: Osasco - São Paulo - Brasil <br>
-:book: Estudando Java (lógica e orientação a objetos) e Spring Framework. <br>
+:book: Java (lógica e orientação a objetos) e Spring Framework. <br>
 :cloud: Fundamentos de cloud. <br>
 ⚡ Me aventurando também na área de microeletrônica. <br>
 :warning: Atenção este espaço (Github) passará por uma reforma. <br>
